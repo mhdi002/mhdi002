@@ -1,10 +1,10 @@
 # 👨‍⚕️ Mahdi Esmaeili Shafaei
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahdiesmaeili/mahdiesmaeili/main/assets/medical_ai_banner.png" alt="Mahdi Esmaeili | Medical AI" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Medical%20AI%20Developer&fontSize=40&fontAlignY=35&desc=Building%20the%20future%20of%20healthcare%20with%20AI&descAlignY=55&descAlign=50" width="100%"/>
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=mahdiesmaeili&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/mahdiesmaeili)
-  [![GitHub Followers](https://img.shields.io/github/followers/mahdiesmaeili?label=Followers&style=for-the-badge&color=blue)](https://github.com/mahdiesmaeili)
+  [![Profile Views](https://komarev.com/ghpvc/?username=mhdi002&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/mhdi002)
+  [![GitHub Followers](https://img.shields.io/github/followers/mhdi002?label=Followers&style=for-the-badge&color=blue)](https://github.com/mhdi002)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mahdiesmaeili)
 </div>
 
