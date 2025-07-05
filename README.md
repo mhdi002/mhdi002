@@ -35,7 +35,15 @@ Project	Description	Tech
 🧠 brain-tumor-detector	Classify brain tumors from MRI using CNN	Keras, Medical Imaging
 🩻 cxr-captioning-gpt	Chest X-ray image captioning using CLIP+GPT	Vision-Language, PyTorch
 📄 ehr-nlp-pipeline	Process and analyze clinical notes	spaCy, Transformers, NLP
-
+🫀 ecg-disease-predictor	Predict diseases from ECG signals	Signal Processing, ML
 
 📊 GitHub Stats & Badges
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahdiesmaeili&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/mahdiesmaeili?label=Followers&style=social" alt="GitHub Followers" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mahdiesmaeili&show_icons=true&theme=react&hide_title=false" alt="Mahdi's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiesmaeili&theme=react" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiesmaeili&layout=compact&theme=react" alt="Top Languages" /> </p>
+🌐 Contact Me
+📧 Email: mahdi.esmaeili@example.com (replace with your real email)
+
+💼 LinkedIn
+
+🧠 Kaggle
+
+🌍 Personal Website
