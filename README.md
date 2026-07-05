@@ -5,8 +5,6 @@
     
 ## 🚀 Python & AI Developer • Agentic AI • MLOps • Full‑Stack
 
-                     *Building intelligent systems that actually ship*
-
 ---
 
 
