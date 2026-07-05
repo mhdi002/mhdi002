@@ -52,6 +52,7 @@ class MahdiEsmaeili:
             "Advanced fine‑tuning & alignment"
         ]
         self.motto = "Build smart, ship fast, iterate constantly."
+   ```     
 🔭 Featured Projects
 Project	Description	Tech Stack
 gold-ir-bot	Gold price analysis agent with Telegram/Bale bot integration	Python, LLMs, FastAPI
