@@ -7,11 +7,12 @@
 <br/>
 
 <div align="center">
-  <h2>🚀 Python &amp; AI Developer • Agentic AI • MLOps • Full‑Stack</h2>
+  <h2>🚀 Python and AI Developer • Agentic AI • MLOps • Full‑Stack</h2>
   <p><em>Building intelligent systems that actually ship</em></p>
 </div>
 
 ---
+
 
 ## 🧠 About Me
 
