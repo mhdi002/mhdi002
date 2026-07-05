@@ -1,8 +1,7 @@
 # 👨‍💻 Mahdi Esmaeili Shafaei
 
-# 👨‍💻 Mahdi Esmaeili Shafaei
-
-<p align="center"> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/your-handle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/mhdi002"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20awesome%20together&descAlignY=50&descAlign=50" width="100%"/> </div><div align="center"> <sub>
+</div>
 ## 🚀 Python & AI Developer • Agentic AI • MLOps • Full‑Stack
 
 *Building intelligent systems that actually ship*
