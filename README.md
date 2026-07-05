@@ -1,14 +1,14 @@
 # 👨‍💻 Mahdi Esmaeili Shafaei
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI%20Engineer%20%26%20Full-Stack%20Dev&fontSize=40&fontAlignY=35&desc=From%20research%20to%20production%20%E2%80%93%20end-to-end%20AI%20solutions&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=200&section=header&text=AI%20Engineer%20%26%20Full-Stack%20Dev&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
+  <br/>
   <h2>🚀 Python & AI Developer • Agentic AI • MLOps • Full‑Stack</h2>
   <p><em>Building intelligent systems that actually ship</em></p>
 </div>
-
 ---
 
 ## 🧠 About Me
