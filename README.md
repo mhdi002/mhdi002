@@ -1,7 +1,8 @@
 # 👨‍💻 Mahdi Esmaeili Shafaei
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20awesome%20together&descAlignY=50&descAlign=50" width="100%"/> </div><div align="center"> <sub>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&descAlignY=50&descAlign=50" width="100%"/> </div><div align="center"> <sub>
 </div>
+    
 ## 🚀 Python & AI Developer • Agentic AI • MLOps • Full‑Stack
 
 *Building intelligent systems that actually ship*
